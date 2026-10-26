@@ -50,7 +50,7 @@ https://github.com/2026-2-NADS2/Projeto13/tree/main/POO%20N1
 
 Não precisa instalar nada nem usar servidor. Basta um navegador atualizado (Chrome, Edge ou Firefox).
 
-1. Neste repositório, clique no arquivo **Space Invaders Lateral.zip** *(ajuste o nome se o seu arquivo for diferente)*.
+1. Neste repositório, clique no arquivo **Space Invaders Lateral.zip**.
 2. Clique em **Download raw file** (ícone de seta para baixo, no canto direito da barra acima do arquivo).
 3. Extraia o zip: botão direito → **Extrair tudo** (Windows) ou dois cliques (Mac). Abrir o `index.html` de dentro do zip não funciona.
 4. Abra a pasta `space-invaders-lateral`. Ela contém o `index.html`, o `style.css` e a pasta `js`. Mantenha os três juntos.
